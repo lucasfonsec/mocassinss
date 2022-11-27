@@ -1,0 +1,43 @@
+.mo{
+    color: white;
+}
+.m1{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.m2{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.m3{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.m4{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.m5{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.logo-loja1{
+    width: 330px;
+    height: 200;
+ 
+ }
+ @media screen and (max-width: 768px) {
+    nav li {
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+    footer p {
+        display: none;
+    }
+ }
